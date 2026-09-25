@@ -10,8 +10,13 @@ const services = [
     description: "New features, integrations and product capabilities for existing applications.",
   },
   {
+    title: "AUTOMATE",
+    kicker: "Still doing it by hand?",
+    description: "Automate repetitive work with workflow automation, system integrations and AI agents.",
+  },
+  {
     title: "IMPROVE",
-    kicker: "Something isn&apos;t performing?",
+    kicker: "Something isn't performing?",
     description: "Performance optimization, Core Web Vitals, UX improvements and technical refinement.",
   },
   {
@@ -21,7 +26,7 @@ const services = [
   },
   {
     title: "DIGITAL PRESENCE",
-    kicker: "Don&apos;t have a website yet?",
+    kicker: "Don't have a website yet?",
     description: "Create a modern digital presence that helps your business reach customers online.",
   },
 ];

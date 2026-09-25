@@ -1,7 +1,7 @@
 const principles = [
   { title: "UNDERSTAND", text: "Get close to the problem." },
   { title: "BUILD", text: "Turn ideas into working software." },
-  { title: "ACCELERATE", text: "Keep improving and shipping." },
+  { title: "ACCELERATE", text: "Automate the busywork and keep shipping." },
 ];
 
 export function StartupSection() {
@@ -9,7 +9,7 @@ export function StartupSection() {
     <section className="mx-auto w-full max-w-7xl px-5 py-20 sm:px-6 lg:px-8">
       <div className="grid gap-10 lg:grid-cols-[0.8fr_1.2fr] lg:items-start">
         <div>
-          <p className="text-[0.68rem] font-medium tracking-[0.24em] text-[#496163] uppercase">Built for startup speed</p>
+          <p className="text-[0.68rem] font-medium tracking-[0.24em] text-[#496163] uppercase">How we work</p>
           <h2 className="mt-5 max-w-[10ch] font-[family-name:var(--font-display)] text-4xl leading-[0.96] tracking-[-0.06em] text-[#0d1c1d] sm:text-5xl">
             Built for startup speed.
           </h2>

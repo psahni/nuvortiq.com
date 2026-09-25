@@ -17,11 +17,11 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://nuvortiq.com"),
   title: "Nuvortiq | Software engineering partner for startups",
   description:
-    "Nuvortiq helps startups build, improve and accelerate digital products with senior product-minded engineering support.",
+    "Nuvortiq helps startups build, automate and accelerate digital products with senior product-minded engineering support.",
   openGraph: {
     title: "Nuvortiq",
     description:
-      "An experienced technology partner for startups that need to build, improve or move faster.",
+      "An experienced technology partner for startups that need to build, automate or move faster.",
     url: "https://nuvortiq.com",
     siteName: "Nuvortiq",
     type: "website",

@@ -17,7 +17,7 @@ const steps = [
   {
     number: "04",
     title: "SHIP",
-    description: "Launch, measure and improve.",
+    description: "Launch, automate releases, measure and improve.",
   },
 ];
 

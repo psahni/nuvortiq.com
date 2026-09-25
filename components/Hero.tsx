@@ -29,11 +29,11 @@ export function Hero() {
           </p>
 
           <h1 className="max-w-[12ch] font-[family-name:var(--font-display)] text-[3.5rem] leading-[0.9] tracking-[-0.06em] text-[#0d1c1d] sm:text-[5rem] lg:text-[6.4rem]">
-            Build. Improve. Accelerate.
+            Build. Automate. Accelerate.
           </h1>
 
           <p className="mt-7 max-w-xl text-base leading-8 text-[#2d3d3e] sm:text-lg">
-            Nuvortiq helps startups build digital products, ship new features, improve performance and create a stronger digital presence.
+            Nuvortiq helps startups build digital products, ship new features, automate manual work and improve performance.
           </p>
 
           <div className="mt-10 flex flex-col gap-4 sm:flex-row sm:items-center">
@@ -103,7 +103,7 @@ export function Hero() {
             ))}
 
             <div className="absolute bottom-8 left-8 rounded-full border border-[#183235]/70 bg-[#f5efe7]/80 px-3 py-2 text-[0.62rem] font-medium tracking-[0.22em] text-[#183235] uppercase backdrop-blur-sm">
-              PRODUCT • BUILD • SHIP
+              BUILD • AUTOMATE • SHIP
             </div>
           </div>
         </div>

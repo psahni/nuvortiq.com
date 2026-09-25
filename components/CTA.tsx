@@ -7,7 +7,7 @@ export function CTA() {
           Have something you want to build?
         </h2>
         <p className="mt-6 max-w-2xl text-lg leading-8 text-[#2d3d3e]">
-          Tell us what you&apos;re working on. Let&apos;s figure out the next step.
+          Tell us what you&apos;re building, or what you&apos;d like to automate. Let&apos;s figure out the next step.
         </p>
 
         <div className="mt-10 flex flex-col gap-4 sm:flex-row sm:items-center">

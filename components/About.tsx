@@ -3,7 +3,7 @@ const strengths = [
   "Full-stack development",
   "Product thinking",
   "Modern web technologies",
-  "AI / agentic systems",
+  "AI agents & automation",
   "Performance engineering",
 ];
 
@@ -21,7 +21,7 @@ export function About() {
 
           <div>
             <p className="max-w-3xl text-lg leading-8 text-[#d9e0d5]">
-              Nuvortiq is built for teams that need senior product-minded engineering without the overhead of a large agency. The focus is on clear execution, thoughtful product decisions and modern technology that helps products move faster.
+              Nuvortiq is built for teams that need senior product-minded engineering without the overhead of a large agency. The focus is on clear execution, thoughtful product decisions and modern technology that automates the busywork so products move faster.
             </p>
 
             <ul className="mt-8 grid gap-3 sm:grid-cols-2 xl:grid-cols-3">

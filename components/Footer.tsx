@@ -8,7 +8,7 @@ export function Footer() {
         </div>
 
         <div className="text-[0.72rem] tracking-[0.16em] uppercase text-[#496163]">
-          Build. Improve. Accelerate.
+          Build. Automate. Accelerate.
         </div>
       </div>
     </footer>

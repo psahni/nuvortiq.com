@@ -1,5 +1,5 @@
 const triggers = [
-  "A website that needs to work harder",
+  "Manual work that should be automated",
   "A new feature that should ship faster",
   "A product built from the ground up",
   "A slow website that needs fixing",
@@ -23,7 +23,7 @@ export function Problem() {
             Startups move fast. The challenge is rarely the idea — it&apos;s the execution, the product quality and the ability to keep momentum without dragging in unnecessary layers.
           </p>
           <p>
-            Nuvortiq helps founders and teams solve the practical problems that slow growth: building the right thing, shipping the next release, improving product quality and tightening digital presence.
+            Nuvortiq helps founders and teams solve the practical problems that slow growth: building the right thing, shipping the next release, automating repetitive work and improving product quality.
           </p>
 
           <ul className="mt-8 grid gap-3 sm:grid-cols-2">
