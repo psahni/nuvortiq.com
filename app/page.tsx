@@ -1,5 +1,6 @@
 import { About } from "@/components/About";
 import { AISection } from "@/components/AISection";
+import { CaseStudiesTeaser } from "@/components/CaseStudiesTeaser";
 import { CTA } from "@/components/CTA";
 import { Footer } from "@/components/Footer";
 import { Hero } from "@/components/Hero";
@@ -15,11 +16,13 @@ export default function Home() {
     <main className="bg-[#f5efe7] text-[#0d1c1d]">
       <Navbar />
       <Hero />
+      {/* <Outcomes /> — hidden for now */}
       <Problem />
       <Services />
+      <CaseStudiesTeaser />
+      <AISection />
       <StartupSection />
       <Technology />
-      <AISection />
       <Process />
       <About />
       <CTA />

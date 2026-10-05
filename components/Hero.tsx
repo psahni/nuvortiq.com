@@ -25,15 +25,15 @@ export function Hero() {
       <div className="relative mx-auto grid w-full max-w-7xl gap-12 px-5 py-16 sm:px-6 lg:grid-cols-[1.2fr_0.8fr] lg:px-8 lg:py-24">
         <div className="flex flex-col justify-center">
           <p className="mb-6 text-[0.68rem] font-medium tracking-[0.24em] text-[#4a5d5f] uppercase">
-            Nuvortiq — software engineering partner
+            Nuvortiq — AI-accelerated product engineering
           </p>
 
           <h1 className="max-w-[12ch] font-[family-name:var(--font-display)] text-[3.5rem] leading-[0.9] tracking-[-0.06em] text-[#0d1c1d] sm:text-[5rem] lg:text-[6.4rem]">
-            Build. Automate. Accelerate.
+            AI speed. Senior judgment.
           </h1>
 
           <p className="mt-7 max-w-xl text-base leading-8 text-[#2d3d3e] sm:text-lg">
-            Nuvortiq helps startups build digital products, ship new features, automate manual work and improve performance.
+            15+ years of distributed systems engineering, amplified by AI agents. We ship startup products in weeks, built to hold up under real traffic, real money and real users.
           </p>
 
           <div className="mt-10 flex flex-col gap-4 sm:flex-row sm:items-center">
@@ -44,12 +44,20 @@ export function Hero() {
               Start a conversation <span aria-hidden="true">→</span>
             </a>
             <a
-              href="#services"
+              href="#work"
               className="inline-flex items-center justify-center rounded-full border border-[#1b2b2d]/60 px-6 py-3 text-sm font-medium text-[#0d1c1d] transition-colors duration-200 hover:bg-[#0d1c1d] hover:text-[#f5efe7]"
             >
-              See what we do
+              See the track record
             </a>
           </div>
+
+          <ul className="mt-10 flex flex-wrap gap-x-6 gap-y-2 text-[0.68rem] font-medium tracking-[0.18em] text-[#4a5d5f] uppercase">
+            <li>15+ yrs engineering</li>
+            <li aria-hidden="true" className="text-[#1b2b2d]/30">/</li>
+            <li>50–60% less dev effort with AI agents</li>
+            <li aria-hidden="true" className="text-[#1b2b2d]/30">/</li>
+            <li>FinTech · AI · Commerce · Media</li>
+          </ul>
         </div>
 
         <div className="relative flex items-center justify-center">

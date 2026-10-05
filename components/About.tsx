@@ -1,10 +1,10 @@
 const strengths = [
-  "Senior engineering experience",
-  "Full-stack development",
-  "Product thinking",
-  "Modern web technologies",
+  "15+ years distributed systems",
   "AI agents & automation",
+  "FinTech & compliance",
   "Performance engineering",
+  "Full-stack product delivery",
+  "Cloud architecture on AWS",
 ];
 
 export function About() {
@@ -15,13 +15,16 @@ export function About() {
           <div>
             <p className="text-[0.68rem] font-medium tracking-[0.24em] text-[#dbe7be] uppercase">About</p>
             <h2 className="mt-5 max-w-[12ch] font-[family-name:var(--font-display)] text-4xl leading-[0.96] tracking-[-0.06em] text-[#f5efe7] sm:text-5xl">
-              A quiet but experienced partner.
+              Principal-led. No layers.
             </h2>
           </div>
 
           <div>
             <p className="max-w-3xl text-lg leading-8 text-[#d9e0d5]">
-              Nuvortiq is built for teams that need senior product-minded engineering without the overhead of a large agency. The focus is on clear execution, thoughtful product decisions and modern technology that automates the busywork so products move faster.
+              Nuvortiq is led by a principal engineer with 15+ years building distributed systems for AI research, embedded lending, KYC compliance, luxury commerce and digital publishing. You work directly with the person who architects and ships the system. No account managers, no junior handoffs.
+            </p>
+            <p className="mt-5 max-w-3xl text-lg leading-8 text-[#d9e0d5]">
+              AI agents handle the repetitive work. Experience handles the decisions that keep you up at night: data integrity, security, scale.
             </p>
 
             <ul className="mt-8 grid gap-3 sm:grid-cols-2 xl:grid-cols-3">
