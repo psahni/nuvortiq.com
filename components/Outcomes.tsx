@@ -10,8 +10,8 @@ const outcomes = [
     source: "Centralized KYC platform",
   },
   {
-    value: "70–80%",
-    label: "Improvement in product-search performance",
+    value: "60%+",
+    label: "Improvement in catalogue and search performance",
     source: "High-traffic luxury e-commerce",
   },
   {
