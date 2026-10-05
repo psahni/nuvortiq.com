@@ -85,7 +85,7 @@ export default async function CaseStudyPage({ params }: Props) {
 
         {study.role && (
           <section className="grid gap-6 border-b border-[#1b2b2d]/10 py-14 lg:grid-cols-[0.35fr_1fr] lg:gap-12">
-            <SectionLabel>Our principal engineer&apos;s role</SectionLabel>
+            <SectionLabel>Our Founder&apos;s role</SectionLabel>
             <ul className="max-w-3xl space-y-4">
               {study.role.map((item) => (
                 <li key={item} className="border-l-2 border-[#c8f06c] pl-5 text-lg leading-8 text-[#0d1c1d]">

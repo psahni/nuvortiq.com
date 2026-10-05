@@ -4,7 +4,7 @@ const triggers = [
   "A product built from the ground up",
   "A slow website that needs fixing",
   "An outdated site that needs a modern rebuild",
-  "Additional senior engineering capacity",
+  "Senior technical leadership without a full-time hire",
 ];
 
 export function Problem() {
@@ -14,7 +14,7 @@ export function Problem() {
         <div>
           <p className="text-[0.68rem] font-medium tracking-[0.24em] text-[#496163] uppercase">Problem → solution</p>
           <h2 className="mt-5 max-w-[12ch] font-[family-name:var(--font-display)] text-4xl leading-[0.96] tracking-[-0.06em] text-[#0d1c1d] sm:text-5xl">
-            Sometimes you don&apos;t need a bigger team. You need the right engineering partner.
+            Sometimes you don&apos;t need a bigger team. You need the right technical partner.
           </h2>
         </div>
 

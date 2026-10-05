@@ -15,9 +15,9 @@ const sourceSerif = Source_Serif_4({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://nuvortiq.com"),
-  title: "Nuvortiq | AI-accelerated product engineering for startups",
+  title: "Nuvortiq | Founder-led technical consulting & AI-accelerated engineering",
   description:
-    "15+ years of distributed systems engineering, amplified by AI agents. Nuvortiq ships production-ready products for startups across AI, FinTech and e-commerce.",
+    "Technical strategy and AI-accelerated delivery for startup founders, led by a Founder and Principal Consultant with 15+ years of distributed systems engineering.",
   openGraph: {
     title: "Nuvortiq",
     description:

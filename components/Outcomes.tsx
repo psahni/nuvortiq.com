@@ -27,7 +27,7 @@ export function Outcomes() {
       <div className="mx-auto w-full max-w-7xl px-5 sm:px-6 lg:px-8">
         <div className="flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
           <div>
-            <p className="text-[0.68rem] font-medium tracking-[0.24em] text-[#dbe7be] uppercase">Measurable outcomes</p>
+            <p className="text-[0.68rem] font-medium tracking-[0.24em] text-[#dbe7be] uppercase">Technical consulting &amp; strategy</p>
             <h2
               id="outcomes-heading"
               className="mt-5 max-w-[16ch] font-[family-name:var(--font-display)] text-4xl leading-[0.96] tracking-[-0.06em] text-[#f5efe7] sm:text-5xl"
@@ -36,7 +36,7 @@ export function Outcomes() {
             </h2>
           </div>
           <p className="max-w-md text-base leading-7 text-[#d6dfd6]">
-            Results our principal engineer delivered across FinTech, AI and e-commerce platforms, before Nuvortiq was founded.
+            Results our Founder delivered in senior technical leadership roles across FinTech, AI and e-commerce, before launching Nuvortiq.
           </p>
         </div>
 

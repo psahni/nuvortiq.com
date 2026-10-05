@@ -1,5 +1,10 @@
 const services = [
   {
+    title: "ADVISE",
+    kicker: "Need a senior second opinion?",
+    description: "Architecture reviews, scaling plans, build-vs-buy and AI-adoption strategy from a founder who has shipped it.",
+  },
+  {
     title: "BUILD",
     kicker: "Starting from zero?",
     description: "Websites, web applications and digital products built around your business goals.",

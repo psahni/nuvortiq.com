@@ -8,7 +8,7 @@ import { caseStudies } from "@/lib/case-studies";
 export const metadata: Metadata = {
   title: "Case studies | Nuvortiq",
   description:
-    "Production systems across AI, FinTech, compliance, e-commerce and publishing, engineered by Nuvortiq's principal engineer.",
+    "Production systems across AI, FinTech, compliance, e-commerce and publishing, architected and delivered by Nuvortiq's Founder.",
   alternates: {
     canonical: "/case-studies",
   },
@@ -28,7 +28,7 @@ export default function CaseStudiesPage() {
             </h1>
           </div>
           <p className="max-w-xl text-lg leading-8 text-[#2d3d3e]">
-            Systems our principal engineer architected and shipped in senior roles before founding Nuvortiq. The same judgment, now available to your team.
+            Systems our Founder architected and shipped in senior technical expert and consultant roles before launching Nuvortiq. The same judgment now drives our technical consulting and strategy work.
           </p>
         </div>
       </section>

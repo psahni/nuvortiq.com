@@ -6,7 +6,7 @@ export type CaseStudy = {
   summary: string;
   metric?: { value: string; label: string };
   challenge: string[];
-  /** What our principal engineer personally owned, as distinct from the wider team. */
+  /** What our Founder personally owned, as distinct from the wider team. */
   role?: string[];
   approach: { title: string; body: string }[];
   decisions: { title: string; points: string[] }[];

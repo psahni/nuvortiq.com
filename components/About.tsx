@@ -1,10 +1,10 @@
 const strengths = [
+  "Technical strategy & architecture",
   "15+ years distributed systems",
   "AI agents & automation",
   "FinTech & compliance",
   "Performance engineering",
-  "Full-stack product delivery",
-  "Cloud architecture on AWS",
+  "Cloud architecture & cost",
 ];
 
 export function About() {
@@ -15,16 +15,16 @@ export function About() {
           <div>
             <p className="text-[0.68rem] font-medium tracking-[0.24em] text-[#dbe7be] uppercase">About</p>
             <h2 className="mt-5 max-w-[12ch] font-[family-name:var(--font-display)] text-4xl leading-[0.96] tracking-[-0.06em] text-[#f5efe7] sm:text-5xl">
-              Principal-led. No layers.
+              Founder-led. No layers.
             </h2>
           </div>
 
           <div>
             <p className="max-w-3xl text-lg leading-8 text-[#d9e0d5]">
-              Nuvortiq is led by a principal engineer with 15+ years building distributed systems for AI research, embedded lending, KYC compliance, luxury commerce and digital publishing. You work directly with the person who architects and ships the system. No account managers, no junior handoffs.
+              Nuvortiq is led by our Founder and Principal Consultant, with 15+ years of distributed systems engineering across AI research, embedded lending, KYC compliance, luxury commerce and digital publishing. Direct access to senior technical expertise and strategic consulting—no account managers, no junior handoffs.
             </p>
             <p className="mt-5 max-w-3xl text-lg leading-8 text-[#d9e0d5]">
-              AI agents handle the repetitive work. Experience handles the decisions that keep you up at night: data integrity, security, scale.
+              We work with founders as a strategic peer: pressure-testing the roadmap, choosing the architecture that survives growth, and using AI agents to compress delivery—without trading away data integrity, security or scale.
             </p>
 
             <ul className="mt-8 grid gap-3 sm:grid-cols-2 xl:grid-cols-3">
